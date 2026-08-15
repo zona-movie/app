@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo.png" width="96" alt="Zona App logo">
+  <img src="logo.png" width="96" alt="Zona App logo">
 </p>
 
 <h1 align="center">ZONA.movie</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/preview.png" alt="Zona App preview">
+  <img src="preview.png" alt="Zona App preview">
 </p>
 
 ## Скачать
