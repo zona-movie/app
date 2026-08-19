@@ -17,7 +17,7 @@
 | Платформа | Скачать |
 |----------|---------|
 | Windows | [ZONA-Setup-0.0.1.exe](https://github.com/zona-movie/app/releases/download/v1.0/zona-Setup-0.0.1.exe) |
-| Android | [ZONA-android-1.0.1.apk](https://github.com/zona-movie/app/releases/download/v1.0/zona-android-1.0.1.apk) |
+| Android | [ZONA.apk](https://github.com/zona-movie/app/raw/main/ZONA.apk) |
 | Android TV | [ZONA-android-tv-0.0.1.apk](https://github.com/zona-movie/app/releases/download/v1.0./zona-android-tv-0.0.1.apk) |
 | Web | [zona.movie](https://zona.movie/) |
 
