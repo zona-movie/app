@@ -2,7 +2,7 @@
   <img src="logo.png" width="96" alt="Zona App logo">
 </p>
 
-<h1 align="center">ZONA.movie</h1>
+<h1 align="center">ZONA (ЗОНА) мобильное приложение</h1>
 
 <p align="center">
   Удобный клиент ZONA для Windows, Android и Android TV.
