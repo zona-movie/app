@@ -17,8 +17,8 @@
 | Платформа | Скачать |
 |----------|---------|
 | Windows | [ZONA-Setup-0.0.1.exe](https://github.com/zona-movie/app/releases/download/v1.0/zona-Setup-0.0.1.exe) |
-| Android | [ZONA.apk](https://github.com/zona-movie/app/releases/download/app/ZONA-android-tv-0.0.1.apk) |
-| Android TV | [ZONA-android-tv-0.0.1.apk](https://github.com/zona-movie/app/releases/download/app/ZONA-android-tv-0.0.1.apk) |
+| Android | [ZONA.apk](https://github.com/zona-movie/zona/releases/download/app/ZONA.apk) |
+| Android TV | [ZONA.apk](https://github.com/zona-movie/zona/releases/download/app/ZONA.apk) |
 | Web | [zona.movie](https://zona.movie/) |
 
 Все версии и checksums доступны в [Releases](https://github.com/zona-movie/app/releases).
@@ -45,7 +45,7 @@ https://github.com/zona-movie/app
 ## FAQ
 
 **Где скачать последнюю версию?**  
-В разделе [Releases](https://github.com/zona-movie/app/releases/).
+В разделе [Releases](https://github.com/zona-movie/zona/releases/).
 
 **Есть версия для Android TV?**  
 Да, используйте файл `zona-android-tv-*.apk`.
